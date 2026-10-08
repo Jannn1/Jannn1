@@ -75,7 +75,8 @@
         <b>Tech:</b> React 19 • MySQL • PHP 8 • KPI Statisztikák
       </p>
       <p align="center">
-        <a href="https://jannn1.hu/nyilvantarto"><b>▶ Kipróbálás élőben</b></a>
+        <a href="https://jannn1.hu/nyilvantarto"><b>▶ Kipróbálás élőben</b></a><br/>
+        <a href="https://github.com/Jannn1/inventory-management-system"><b>📂 Forráskód (GitHub)</b></a>
       </p>
     </td>
   </tr>
